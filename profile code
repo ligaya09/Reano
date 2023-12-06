@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title> ABOUT ME </title>
+    <style>
+        body {
+            background-image: url('joy.jpeg');
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            text-align: center; 
+            color: white; 
+        }
+
+        .content {
+            margin: 0 auto;
+            max-width: 600px; 
+            padding: 20px; 
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <h1> ABOUT ME </h1>
+        <p> <h3>
+            I'm Mary Joy Reano, a second-year IT student at Asia Pacific College NUFV.
+            <br> I find joy in delving into the world of coding and exploring the realm
+            <br> of design, guided by my faith.
+            <br> My ambition is to become a proficient IT professional, and I'm grateful for
+            <br> the unwavering support of my family, who stand by me in every decision.
+            <br> With the guidance of my faith, I'm driven to continue 
+            <br>learning and growing in coding and design.
+            <br> I believe that through dedication and faith, I can forge a career that 
+            <br> positively impacts the world of technology.
+           </h3>
+        </p>
+    </div>
+</body>
+
+</html>
